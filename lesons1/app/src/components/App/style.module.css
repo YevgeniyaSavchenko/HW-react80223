@@ -1,0 +1,12 @@
+.app {
+    border: 2px solid rgb(200, 9, 248);
+    padding: 10px;
+    margin: 50px auto;
+    width: 500px;
+    box-sizing: border-box;
+    background-color:  rgb(224, 175, 237);
+    text-align: center;
+  
+    
+    
+}

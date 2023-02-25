@@ -1,0 +1,7 @@
+.days {
+  border: 2px solid rgb(190, 52, 240);
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+}
